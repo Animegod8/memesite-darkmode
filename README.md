@@ -1,2 +1,2 @@
-# insert-website-namehere
-*insert good readme.md here*
+# memesite
+A place where memes, small javascript games and all around open source stupidity exists
