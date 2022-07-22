@@ -1,4 +1,14 @@
 
+
+header{
+  size: 60px;
+  color: white;
+  font: sans-serif;
+}
+
+
+
+
 canvas{
   background: white;
   border-style: solid;

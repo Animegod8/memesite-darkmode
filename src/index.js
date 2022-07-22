@@ -1,2 +1,6 @@
-console.log("Hello World!");
-return 0;
+var c = document.getElementById("canvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.stroke();
+console.log("circle drawn!")
